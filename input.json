@@ -1,0 +1,12 @@
+{
+  "searchKeywords": [
+    "wireless earbuds"
+  ],
+  "productUrls": [],
+  "productIds": [],
+  "maxResultsPerKeyword": 10,
+  "shippingDestinationCountry": "US",
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
